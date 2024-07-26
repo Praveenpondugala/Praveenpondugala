@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate full-stack web developer, an av
 
 ## 🤝 Connect with Me
 
-- **LinkedIn**: https://www.linkedin.com/in/pondugala-praveen-43346b1bb/
+- **LinkedIn**: www.linkedin.com/in/praveenpondugala1213
 - **Email**: praveenpondugala16@gmail.com
 
 ## 🤗 About Me
