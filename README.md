@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I’m a passionate full-stack web developer, an avid cricket enthusiast, and an open-minded individual eager to learn and explore new technologies.
 
-## 🔭 Projects
-
-
-
 ## 🌱 Hobbies and Interests
 
 - **Cricket**: I enjoy playing and watching cricket. It's a great way to unwind and stay active.
