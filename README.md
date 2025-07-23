@@ -21,7 +21,7 @@ I'm constantly working on exciting projects that leverage modern web technologie
 ## 💬 Let’s Connect
 
 📧 Email: praveenpondugala16@gmail.com
-🔗 LinkedIn: linkedin.com/in/praveenpondugala1213
+🔗 LinkedIn: https://www.linkedin.com/in/praveenpondugala1213/
 
 ---
 
