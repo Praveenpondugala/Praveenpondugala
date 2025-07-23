@@ -4,9 +4,24 @@ Welcome to my GitHub profile! I’m a passionate full-stack web developer, an av
 🚀 What I'm Building*
 I'm constantly working on exciting projects that leverage modern web technologies. 
 
-Currently, I'm particularly focused on:
+## Currently, I'm particularly focused on:
 
-*Building scalable and robust backend APIs with Java Spring Boot. Crafting dynamic and intuitive user interfaces using HTML and CSS. Exploring the power of cloud platforms, with foundational knowledge in AWS services like IAM, EC2, and S3, and a basic understanding of relational databases (RDB). Developing AI-driven and machine learning-based solutions using Python, OpenCV, YOLO, and Haar Cascade, and utilizing tools such as Scikit-learn, TensorFlow*
+
+📊 Basics of data analysis using Python, with libraries like Pandas, NumPy, and Matplotlib for working with datasets and creating visualizations.
+
+🤖 Introduction to machine learning, exploring algorithms for classification and prediction using Scikit-learn and simple models in TensorFlow.
+
+💻 Writing clean and modular Python code, focusing on logic building, file handling, and automation.
+
+🌐 Core concepts of web development, including building frontends with HTML/CSS and backend APIs using Java Spring Boot and MySQL.
+
+☁️ Learning the basics of cloud computing with AWS services like IAM, EC2, and S3 to understand deployment and storage.
+
+
+## 💬 Let’s Connect
+
+📧 Email: praveenpondugala16@gmail.com
+🔗 LinkedIn: linkedin.com/in/praveenpondugala1213
 
 ---
 
